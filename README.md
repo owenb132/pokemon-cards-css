@@ -18,6 +18,10 @@ in the Sword and Shield era of Pokemon Trading Cards.
 If you think this is super cool, or useful, and want to donate a little, then you are also super cool!
 
 
+// Your JavaScript code here
+console.log("Hello, world!");
+
+
 ```
 import code from 'https://js.getcode.com/v1';
 
