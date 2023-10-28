@@ -17,6 +17,18 @@ in the Sword and Shield era of Pokemon Trading Cards.
 #### support / tip  
 If you think this is super cool, or useful, and want to donate a little, then you are also super cool!
 
+import code from 'https://js.getcode.com/v1';
+
+const { button } = code.elements.create('button', {
+  currency: 'usd',
+  destination: 'E8otxw1CVX9bfyddKu3ZB3BVLa4VVF9J7CTPdnUwT9jR',
+  amount: 0.05,
+});
+
+button.mount('#button-container');
+
+<div id="button-container"></div>
+
 |  |  |         |
 |--|--:|---------|
 | <img src="https://user-images.githubusercontent.com/2817396/149629283-6002944f-9253-4e35-917d-89b476deae4e.png" width=20> | [![£1 One Pound tip](https://user-images.githubusercontent.com/2817396/149629980-08b9a952-bd6a-4c23-be78-05e3fd534352.png)](https://www.paypal.com/paypalme/simey/1) | [£1 tip](https://www.paypal.com/paypalme/simey/1) |
