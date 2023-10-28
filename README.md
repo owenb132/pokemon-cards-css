@@ -17,6 +17,8 @@ in the Sword and Shield era of Pokemon Trading Cards.
 #### support / tip  
 If you think this is super cool, or useful, and want to donate a little, then you are also super cool!
 
+
+```
 import code from 'https://js.getcode.com/v1';
 
 const { button } = code.elements.create('button', {
@@ -25,7 +27,10 @@ const { button } = code.elements.create('button', {
   amount: 0.05,
 });
 
+```
+
 button.mount('#button-container');
+
 
 <div id="button-container"></div>
 
