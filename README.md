@@ -15,28 +15,6 @@ in the Sword and Shield era of Pokemon Trading Cards.
 ---
 
 #### support / tip  
-If you think this is super cool, or useful, and want to donate a little, then you are also super cool!
-
-
-// Your JavaScript code here
-console.log("Hello, world!");
-
-
-```
-import code from 'https://js.getcode.com/v1';
-
-const { button } = code.elements.create('button', {
-  currency: 'usd',
-  destination: 'E8otxw1CVX9bfyddKu3ZB3BVLa4VVF9J7CTPdnUwT9jR',
-  amount: 0.05,
-});
-
-```
-
-button.mount('#button-container');
-
-
-<div id="button-container"></div>
 
 |  |  |         |
 |--|--:|---------|
